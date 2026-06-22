@@ -1182,8 +1182,4 @@ The simultaneous emergence of Bundibugyo Ebola (1,003 confirmed cases, 254 death
 
 ---
 
-**Report Status**: Strategic Economic Assessment Complete | Investment Recommendation: Overweight Healthcare | Risk Rating: MEDIUM (binary outcomes; high volatility expected)
 
-**Prepared for**: C-Suite, Board of Directors, Institutional Investment Committees
-
-**Classification**: Confidential - For Internal Use Only
